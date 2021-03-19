@@ -1,7 +1,7 @@
 Flask==1.0.2
 requests==2.21.0
 pytz==2019.1
-Pillow==6.2.2
+Pillow==8.1.1
 python_dateutil==2.8.1
 waitress==1.4.3
 gpiozero==1.5.1
